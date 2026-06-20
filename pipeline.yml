@@ -10,7 +10,7 @@ Resources:
         Statement:
           - Effect: Allow
             Principal:
-              Service: codebuild.amazonaws.com
+              Service: codebuild.amazonaws.coM
             Action: 'sts:AssumeRole'
 
       Policies:
