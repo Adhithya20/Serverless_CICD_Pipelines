@@ -1,5 +1,5 @@
 # Serverless_CICD_Pipelines
-
+A fully serverless CI/CD pipeline on AWS that automates build, test, and deployment with CodePipeline, CodeBuild, Lambda, and API Gateway.
 ## Overview
 
 This project demonstrates a fully automated Serverless CI/CD Pipeline using AWS services. The pipeline automates the build, test, and deployment process for AWS Lambda functions, enabling faster and more reliable releases.
